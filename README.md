@@ -271,6 +271,3 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ---
 
-<p align="center">
-  Built by a 3rd-year EEE undergraduate · Embedded Systems & IoT
-</p>
