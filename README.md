@@ -172,7 +172,7 @@ The dual-axis plot correlates **Bus Voltage** (left Y-axis) with **Predicted Pow
 
 ### ThingSpeak Live Dashboard
 
-> 📺 **[Watch the Full Demo on YouTube →](#)** *(Link to be added)*
+> 📺 **[Watch the Full Demo on YouTube →](#)** *https://youtube.com/shorts/qFIId6kzvBc?feature=share*
 
 | Metric | Observed Range | Notes |
 |---|---|---|
